@@ -11,10 +11,7 @@
 <Configuration>
 
   <Add OfficeClientEdition="64" Channel="Current">
-    <Product ID="O365ProPlusRetail">
-      <Language ID="en-us" />
-    </Product>
-    <Product ID="VisioProRetail">
+    <Product ID="O365BusinessRetail">
       <Language ID="en-us" />
     </Product>
   </Add>
